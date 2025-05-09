@@ -4,7 +4,7 @@ Hi 👋 My name is Kevin
 Software Engineer & UI/UX Design
 -----------------
 
-I'm a Software Engineer specializing in crafting exceptional digital experiences and solutions through innovative front-end development and user-centric product design.
+I synthesize my ideas into codes and visuals. I'm a Software Engineer passionate about crafting exceptional digital experiences and solutions through innovative front-end development and user-centric product design. With over 5 years of combined experience, I've contributed to and collaborated with a diverse range of teams—from student community initiatives to international startups—to help bringing ideas and solutions to life.
 
 * 🌍  I'm based in Jakarta, Indonesia
 * 🖥️  See my portfolio at [JVK](http://vnctkevin.com)
